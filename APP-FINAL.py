@@ -1,3 +1,13 @@
+# Install necessary packages
+!pip install streamlit
+!pip install yfinance
+!pip install tensorflow
+!pip install transformers
+!pip install plotly
+!pip install textblob
+!pip install pandas
+!pip install numpy
+
 import streamlit as st
 import pandas as pd
 import numpy as np
